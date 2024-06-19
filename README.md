@@ -15,18 +15,14 @@
 ### 🌟 Top Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emogy-reunion&layout=compact&theme=radical)](https://github.com/Emogy-reunion/github-readme-stats)
 
-### 📝 Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Post Title](https://example.com)
-- [Post Title](https://example.com)
-<!-- BLOG-POST-LIST:END -->
-
 ### 📫 How to reach me
-- Email: emogy@example.com
+- Email: mv7786986@gmail.com
 - LinkedIn: [Emogy-reunion](https://linkedin.com/in/emogy-reunion)
-- Twitter: [@EmogyReunion](https://twitter.com/EmogyReunion)
+- Twitter: [@EmogyReunion](https://twitter.com/emogyreunion)
 
 ### 💼 Projects
-- [Project Name](https://github.com/Emogy-reunion/project-repo)
-- [Project Name](https://github.com/Emogy-reunion/project-repo)
+- [Project Name](https://github.com/Emogy-reunion/portfolio)
+- [Project Name](https://github.com/Emogy-reunion/simple-shell)
+- [Project Name](https://github.com/Emogy-reunion/linked-lists)
+
 
