@@ -1,8 +1,5 @@
 ## Hi there, I'm Emogy-reunion! 👋
 
-### 📊 GitHub Stats
-![Emogy-reunion's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emogy-reunion&show_icons=true&theme=radical)
-
 ### 🗂️ Contributions
 [![Emogy-reunion's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Emogy-reunion&theme=dark)](https://git.io/streak-stats)
 
