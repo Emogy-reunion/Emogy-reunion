@@ -12,7 +12,7 @@
 - Twitter: [@emogyreunion](https://twitter.com/emogyreunion)
 
 ### 💼 Projects
-- [Flask projects ](https://github.com/Emogy-reunion/flask)
+- [Mini Projects ](https://github.com/Emogy-reunion/flask)
 - [Low level programming](https://github.com/Emogy-reunion/alx-low_level_programming)
 - [High level Programming](https://github.com/Emogy-reunion/alx-higher_level_programming)
 - [System_engineering-devops](https://github.com/Emogy-reunion/alx-system_engineering-devops)
